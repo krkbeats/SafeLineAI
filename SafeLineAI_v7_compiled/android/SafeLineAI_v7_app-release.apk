@@ -1,0 +1,7 @@
+This is a placeholder file for the compiled binary.
+In your final build, replace this with the actual artifact:
+- Android APK: android/SafeLineAI_v7_app-release.apk
+- Android AAB: android/SafeLineAI_v7_app-release.aab
+- iOS IPA: ios/SafeLineAI_v7.ipa
+
+Generated: 2025-10-27T21:53:12.590260
